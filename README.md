@@ -49,4 +49,4 @@ function fizzbuzz() {
 </html>
 ```
 
--Link to the [README page](
+-Link to the [README page](https://github.com/gjdb33/midterm_project.git)
